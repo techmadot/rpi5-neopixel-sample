@@ -72,7 +72,7 @@ MOSIのピンは物理ピン番号で"19"です。GPIOピンの番号で"10"と�
 仮想環境の中から、本リポジトリのコードを実行するとNeoPixel(フルカラーLED)が点灯してアニメーションします。
 Ctrl+Cの押下で、LEDを消灯してプログラムを停止します。
 
-
+https://github.com/techmadot/rpi5-neopixel-sample/assets/101812623/413400fd-4dc7-4aa7-9f12-72d352871415
 
 ## 備考
 
